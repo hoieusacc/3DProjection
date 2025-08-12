@@ -39,4 +39,9 @@ _Built with Python_
 2. **Navigate into the project directory:**
    ```bash
    cd 3DProjection
+Usage
+Run the projection script with:
+  ```bash
+  python 3dProjection.py
+```
 [⬅ Return](#3DProjection)
