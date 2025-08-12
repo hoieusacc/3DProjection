@@ -39,12 +39,12 @@ _Built with Python_
 2. **Navigate into the project directory:**
    ```bash
    cd 3DProjection
-Usage
+## Usage:
 Run the projection script with:
   ```bash
   python 3dProjection.py
 ```
-Project Details
+## Project Details:
   - Language: Python (100%) 
   - Repository structure: Single Python script (3dProjection.py) 
   - Focus: Demonstrates projection from 3D to 2D—for example, calculating screen space coordinates from 3D object points.
