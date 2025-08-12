@@ -46,11 +46,7 @@ Run the projection script with:
 ```
 Project Details
   - Language: Python (100%) 
-  - GitHub
-
-Repository structure: Single Python script (3dProjection.py) 
-GitHub
-
-Focus: Demonstrates projection from 3D to 2D—for example, calculating screen space coordinates from 3D object points.
+  - Repository structure: Single Python script (3dProjection.py) 
+  - Focus: Demonstrates projection from 3D to 2D—for example, calculating screen space coordinates from 3D object points.
 
 [⬅ Return](#3DProjection)
